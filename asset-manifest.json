@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/you-sannim/static/css/main.ca203d0d.css",
-    "main.js": "/you-sannim/static/js/main.4ffb8bd2.js",
-    "static/js/592.8a4091b0.chunk.js": "/you-sannim/static/js/592.8a4091b0.chunk.js",
-    "static/media/me.JPG": "/you-sannim/static/media/me.c95b0f7a8cd3a7b00048.JPG",
-    "static/media/Pongchanok_resume.pdf": "/you-sannim/static/media/Pongchanok_resume.5b7660eb99273521cdf0.pdf",
-    "static/media/Pongchanok_cv.pdf": "/you-sannim/static/media/Pongchanok_cv.5bc030bc1271e2b5a3b0.pdf",
-    "static/media/default_ai.png": "/you-sannim/static/media/default_ai.979cef1eb1b9311330d1.png",
-    "index.html": "/you-sannim/index.html",
-    "main.ca203d0d.css.map": "/you-sannim/static/css/main.ca203d0d.css.map",
-    "main.4ffb8bd2.js.map": "/you-sannim/static/js/main.4ffb8bd2.js.map",
-    "592.8a4091b0.chunk.js.map": "/you-sannim/static/js/592.8a4091b0.chunk.js.map"
+    "main.css": "/YOU_SANNIM/static/css/main.258ae1b3.css",
+    "main.js": "/YOU_SANNIM/static/js/main.696c1734.js",
+    "static/js/592.8a4091b0.chunk.js": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js",
+    "static/media/me.JPG": "/YOU_SANNIM/static/media/me.c95b0f7a8cd3a7b00048.JPG",
+    "static/media/Pongchanok_resume.pdf": "/YOU_SANNIM/static/media/Pongchanok_resume.5b7660eb99273521cdf0.pdf",
+    "static/media/Pongchanok_cv.pdf": "/YOU_SANNIM/static/media/Pongchanok_cv.5bc030bc1271e2b5a3b0.pdf",
+    "static/media/default_ai.png": "/YOU_SANNIM/static/media/default_ai.979cef1eb1b9311330d1.png",
+    "index.html": "/YOU_SANNIM/index.html",
+    "main.258ae1b3.css.map": "/YOU_SANNIM/static/css/main.258ae1b3.css.map",
+    "main.696c1734.js.map": "/YOU_SANNIM/static/js/main.696c1734.js.map",
+    "592.8a4091b0.chunk.js.map": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca203d0d.css",
-    "static/js/main.4ffb8bd2.js"
+    "static/css/main.258ae1b3.css",
+    "static/js/main.696c1734.js"
   ]
 }
