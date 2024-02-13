@@ -37,19 +37,19 @@ const Footer = () => {
                 </ul>
 
                 <div className="footer__social">
-                    <a href="#https://www.instagram.com/_yousan_nim/" className="footer__social-link" target="_blank">
+                    <a href="https://www.instagram.com/_yousan_nim/" className="footer__social-link" target="_blank">
                         <i class="bx bxl-instagram"></i>
                     </a>
 
-                    <a href="#https://github.com/IZZARA-URA" className="footer__social-link" target="_blank">
+                    <a href="https://github.com/IZZARA-URA" className="footer__social-link" target="_blank">
                         <i class="bx uil-github-alt"></i>
                     </a>
 
-                    <a href="" className="footer__social-link" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=100009564345209" className="footer__social-link" target="_blank">
                         <i class="bx bxl-facebook"></i>
                     </a>
 
-                    <a href="" className="footer__social-link" target="_blank">
+                    <a href="https://www.linkedin.com/in/pongchanok-nuamteam-a182422b0" className="footer__social-link" target="_blank">
                         <i class="bx bxl-linkedin"></i>
                     </a>
                 </div>

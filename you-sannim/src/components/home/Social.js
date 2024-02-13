@@ -14,11 +14,11 @@ const Social = () => {
                 <i class="uil uil-github-alt"></i>
             </a>
 
-            <a href="" className="home__social-icon" target="_blank">
+            <a href="https://www.facebook.com/profile.php?id=100009564345209" className="home__social-icon" target="_blank">
                 <i class="uil uil-facebook"></i>
             </a>
 
-            <a href="" className="home__social-icon" target="_blank">
+            <a href="https://www.linkedin.com/in/pongchanok-nuamteam-a182422b0" className="home__social-icon" target="_blank">
                 <i class="uil uil-linkedin"></i>
             </a>
         </div>
