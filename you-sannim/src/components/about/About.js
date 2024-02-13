@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./about.css"
-// import AboutImg from "../../assets/about.jpg"
-import AboutImg from "../../assets/me.JPG"
+import AboutImg from "../../assets/me_4.jpg"
+// import AboutImg from "../../assets/me.JPG"
 
 import resume from '../../assets/Pongchanok_resume.pdf'
 import CV from "../../assets/Pongchanok_cv.pdf"
