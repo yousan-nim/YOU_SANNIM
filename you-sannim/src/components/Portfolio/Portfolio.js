@@ -13,7 +13,7 @@ const data = [
         image: IMG_AI,
         title: 'GAN Model',
         github: 'https://github.com/IZZARA-URA/PYTORCH_LEARN_ARCHITECTURES/tree/main/GenerativeAdversarialNetworks',
-        demo: "x",
+        demo: "",
     },
     {
         id:2,
@@ -49,6 +49,13 @@ const data = [
         title: 'NLP SENTIMENT ANALTSYS',
         github: 'https://github.com/IZZARA-URA/NLP_SENTIMENT_ANALYSIS',
         demo: '',
+    },
+    {
+        id:7,
+        image: IMG1,
+        title: 'FULL STACK: (MEARN) DASHBOARD ADMIN PAGE',
+        github: 'https://admin-fronend.onrender.com/dashboard',
+        demo: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
     },
 ]
 
