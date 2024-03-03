@@ -127,7 +127,7 @@ const Qulification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">AI Researcher ( Vission Project )</h3>
+                                <h3 className="qualification__title">AI Researcher ( Vision Project )</h3>
                                 <span className="qualification__subtitle">King Mongkut’s University of Technology Thonburi</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">2021 - 2022</i>
