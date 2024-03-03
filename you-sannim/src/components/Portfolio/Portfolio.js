@@ -11,16 +11,16 @@ const data = [
     {
         id:1,
         image: IMG_AI,
-        title: 'GAN Model',
+        title: 'GANs Model',
         github: 'https://github.com/IZZARA-URA/PYTORCH_LEARN_ARCHITECTURES/tree/main/GenerativeAdversarialNetworks',
         demo: "",
     },
     {
         id:2,
-        image: IMG_AI,
-        title: 'Transformer Model',
-        github: 'https://github.com/IZZARA-URA/TRANSFORMERS',
-        demo: '',
+        image: IMG1,
+        title: 'FULL STACK: (MEARN) DASHBOARD ADMIN PAGE',
+        github: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
+        demo: 'https://react-dashboard-uk5x.onrender.com/dashboard',
     },
     {
         id:3,
@@ -52,11 +52,12 @@ const data = [
     },
     {
         id:7,
-        image: IMG1,
-        title: 'FULL STACK: (MEARN) DASHBOARD ADMIN PAGE',
-        github: 'https://admin-fronend.onrender.com/dashboard',
-        demo: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
+        image: IMG_AI,
+        title: 'Transformer Model',
+        github: 'https://github.com/IZZARA-URA/TRANSFORMERS',
+        demo: '',
     },
+
 ]
 
 
