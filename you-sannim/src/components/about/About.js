@@ -36,7 +36,7 @@ const About = () => {
                     </p>
 
                     <div className="about__wrap_button"> 
-                        <a download="" href={CV} className="button button--flex">
+                        {/* <a download="" href={CV} className="button button--flex">
                             CV
                             <svg
                                 class="button__icon"
@@ -63,7 +63,7 @@ const About = () => {
                                 fill="var(--container-color)"
                                 ></path>
                             </svg>
-                        </a>
+                        </a> */}
 
                         <a download="" href={resume} className="button button--flex">
                             Resume
@@ -94,7 +94,6 @@ const About = () => {
                             </svg>
                         </a>
                     </div>
-
                 </div>
             </div>
         </section>
