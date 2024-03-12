@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/YOU_SANNIM/static/css/main.210937c5.css",
-    "main.js": "/YOU_SANNIM/static/js/main.5db9f07c.js",
+    "main.css": "/YOU_SANNIM/static/css/main.84b10538.css",
+    "main.js": "/YOU_SANNIM/static/js/main.03434da6.js",
     "static/js/592.8a4091b0.chunk.js": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js",
     "static/media/Pongchanok_resume.pdf": "/YOU_SANNIM/static/media/Pongchanok_resume.3fdffb065cf48c426d4d.pdf",
     "static/media/me_4.jpg": "/YOU_SANNIM/static/media/me_4.3d29274cd6d5ff896691.jpg",
@@ -11,12 +11,12 @@
     "static/media/Social.jpg": "/YOU_SANNIM/static/media/Social.9aa3da57a07a3cddf5e3.jpg",
     "static/media/default_ai.png": "/YOU_SANNIM/static/media/default_ai.979cef1eb1b9311330d1.png",
     "index.html": "/YOU_SANNIM/index.html",
-    "main.210937c5.css.map": "/YOU_SANNIM/static/css/main.210937c5.css.map",
-    "main.5db9f07c.js.map": "/YOU_SANNIM/static/js/main.5db9f07c.js.map",
+    "main.84b10538.css.map": "/YOU_SANNIM/static/css/main.84b10538.css.map",
+    "main.03434da6.js.map": "/YOU_SANNIM/static/js/main.03434da6.js.map",
     "592.8a4091b0.chunk.js.map": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.210937c5.css",
-    "static/js/main.5db9f07c.js"
+    "static/css/main.84b10538.css",
+    "static/js/main.03434da6.js"
   ]
 }
