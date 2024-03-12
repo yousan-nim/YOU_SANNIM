@@ -7,7 +7,18 @@ import "./portfolio.css"
 import IMG1 from "../../assets/default_project.png"
 import IMG_AI from "../../assets/default_ai.png"
 
+import DASHBOARD from "../../assets/Dashboard.jpg"
+import SOCIAL from "../../assets/Social.jpg"
+import MARKETPLACE from "../../assets/Marketplace.jpg"
+
 const data = [
+    {
+        id:0,
+        image: SOCIAL,
+        title: 'FULL STACK: (MEARN) Social Media Application',
+        github: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
+        demo: "https://social-media-client-a4pm.onrender.com/",
+    },
     {
         id:1,
         image: IMG_AI,
@@ -17,7 +28,7 @@ const data = [
     },
     {
         id:2,
-        image: IMG1,
+        image: DASHBOARD,
         title: 'FULL STACK: (MEARN) DASHBOARD ADMIN PAGE',
         github: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
         demo: 'https://react-dashboard-uk5x.onrender.com/dashboard',
@@ -31,7 +42,7 @@ const data = [
     },
     {
         id:4,
-        image: IMG1,
+        image: MARKETPLACE,
         title: 'DJANGO: ECOMMERCE',
         github: 'https://github.com/IZZARA-URA/DJANGO_VEGETMART',
         demo: '',
