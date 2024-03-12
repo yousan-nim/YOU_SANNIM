@@ -16,8 +16,10 @@ const data = [
         id:0,
         image: SOCIAL,
         title: 'FULL STACK: (MEARN) Social Media Application',
-        github: 'https://github.com/IZZARA-URA/REACT_EXPRESS_MONGODB',
+        github: 'https://github.com/IZZARA-URA/MERN_SOCIAL_MEDIA',
         demo: "https://social-media-client-a4pm.onrender.com/",
+        email: "pongchanok@gmail.com",
+        password: "pongchanok"
     },
     {
         id:1,
@@ -81,7 +83,7 @@ const Portfolio = () => {
         <span className="section__subtitle">My Portfolio</span>
         <div className="portfolio__container container">
             {
-                data.map(({id, image, title, github, demo}) => {
+                data.map(({id, image, title, github, demo, email, password}) => {
                     return (
                         <article key={id} className="portfolio__item">
                             <div className="portfolio__item-image">
@@ -93,6 +95,21 @@ const Portfolio = () => {
                             </h3>
 
                             <div className="portfolio__button">
+                                {email != null ? (
+                                    <div className='portfolio__emailpass'>
+                                        <li>
+                                            Email : {email}
+                                        </li>
+                                        <li>
+                                            Password : {password}
+                                        </li>
+                                    </div>
+                                ) : (
+                                    <div>
+                                        
+                                    </div>
+                                )}
+                                
                                 {demo === "" ? (
                                     <div className="portfolio__cta">
                                         <a href={github} className="portfolio__scroll-arrow" target="_blank">
@@ -106,6 +123,7 @@ const Portfolio = () => {
                                             Github
                                             <i class='bx bx-right-arrow-alt'></i>
                                         </a>
+                                        
                                         <a href={demo} className="portfolio__scroll-arrow" target="_blank">
                                             Live Demo
                                             <i class='bx bx-right-arrow-alt'></i>
