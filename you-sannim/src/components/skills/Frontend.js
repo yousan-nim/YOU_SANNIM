@@ -32,13 +32,13 @@ const Frontend = () => {
                         </div>
                     </div>
 
-                    <div className="skills__data">
+                    {/* <div className="skills__data">
                         <i class="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skill__name">Git</h3>
                             <div className="skills__level">Intermediate</div>
                         </div>
-                    </div>
+                    </div> */}
 
                 </div>
 

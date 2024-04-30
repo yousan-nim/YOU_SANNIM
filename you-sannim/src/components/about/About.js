@@ -4,8 +4,8 @@ import "./about.css"
 import AboutImg from "../../assets/me_4.jpg"
 // import AboutImg from "../../assets/me.JPG"
 
-import resume from '../../assets/Pongchanok_resume.pdf'
-// import CV from "../../assets/Pongchanok_cv.pdf"
+import resume from '../../assets/myResume_3.pdf'
+import CV from "../../assets/myCV_3.pdf"
 
 import Info from "./Info"
 
@@ -36,7 +36,7 @@ const About = () => {
                     </p>
 
                     <div className="about__wrap_button"> 
-                        {/* <a download="" href={CV} className="button button--flex">
+                        <a download="" href={CV} className="button button--flex">
                             CV
                             <svg
                                 class="button__icon"
@@ -63,7 +63,7 @@ const About = () => {
                                 fill="var(--container-color)"
                                 ></path>
                             </svg>
-                        </a> */}
+                        </a>
 
 
                         

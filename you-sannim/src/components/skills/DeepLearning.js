@@ -35,14 +35,22 @@ const Backend = () => {
                 <div className="skills__data">
                     <i class="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skill__name">PyTorch</h3>
-                        <div className="skills__level">Advance</div>
+                        <h3 className="skill__name">MLFlow</h3>
+                        <div className="skills__level">Basic</div>
                     </div>
                 </div>
 
             </div>
 
             <div className="skills__group">
+                <div className="skills__data">
+                    <i class="bx bx-badge-check"></i>
+                    <div>
+                        <h3 className="skill__name">PyTorch</h3>
+                        <div className="skills__level">Advance</div>
+                    </div>
+                </div>
+
                 <div className="skills__data">
                     <i class="bx bx-badge-check"></i>
                     <div>
@@ -55,14 +63,6 @@ const Backend = () => {
                     <i class="bx bx-badge-check"></i>
                     <div>
                         <h3 className="skill__name">TensorBoard</h3>
-                        <div className="skills__level">Basic</div>
-                    </div>
-                </div>
-
-                <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skill__name">MLFlow</h3>
                         <div className="skills__level">Basic</div>
                     </div>
                 </div>
