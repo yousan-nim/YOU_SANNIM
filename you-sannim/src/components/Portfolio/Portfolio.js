@@ -10,6 +10,7 @@ import IMG_AI from "../../assets/default_ai.png"
 import DASHBOARD from "../../assets/Dashboard.jpg"
 import SOCIAL from "../../assets/Social.jpg"
 import MARKETPLACE from "../../assets/Marketplace.jpg"
+import KOURSELY from "../../assets/KOURSELY.jpg"
 
 const data = [
     {
@@ -70,6 +71,13 @@ const data = [
         github: 'https://github.com/IZZARA-URA/TRANSFORMERS',
         demo: '',
     },
+    {
+        id:8,
+        image: KOURSELY,
+        title: 'KOURSELY',
+        github: 'https://github.com/IZZARA-URA/KOURSELY',
+        demo: 'https://izzara-ura.github.io/KOURSELY/',
+    }
 
 ]
 

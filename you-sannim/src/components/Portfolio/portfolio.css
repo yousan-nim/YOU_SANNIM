@@ -1,6 +1,8 @@
 img {
-    width: 100%;
+    width: auto;
     height: 100%;
+    overflow: hidden;
+    object-fit: cover;
 }
 
 .portfolio__item {
@@ -22,7 +24,6 @@ img {
     margin-bottom: 1.2rem;
     border-radius: 1.2rem;
     overflow: hidden;
-    width: 100%;
     width: 100%;
     /* margin: 0 0 20px 0; */
 }
@@ -87,9 +88,7 @@ img {
         margin-bottom: 1.2rem;
         border-radius: 1.2rem;
         overflow: hidden;
-        /* width: 270px;
-        width: 270px; */
-        /* margin: 0 0 20px 0; */
+        /* background-color: red; */
     }
 }
 
