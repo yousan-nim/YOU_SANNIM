@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/YOU_SANNIM/static/css/main.84b10538.css",
-    "main.js": "/YOU_SANNIM/static/js/main.fb2de123.js",
+    "main.css": "/YOU_SANNIM/static/css/main.365093a4.css",
+    "main.js": "/YOU_SANNIM/static/js/main.c142c15e.js",
     "static/js/592.8a4091b0.chunk.js": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js",
     "static/media/myResume_3.pdf": "/YOU_SANNIM/static/media/myResume_3.d26a05bb128253f07a20.pdf",
     "static/media/Marketplace.jpg": "/YOU_SANNIM/static/media/Marketplace.042112de83ec22088251.jpg",
@@ -10,14 +10,15 @@
     "static/media/me_4.jpg": "/YOU_SANNIM/static/media/me_4.b11e91f162efd44bf31f.jpg",
     "static/media/Social.jpg": "/YOU_SANNIM/static/media/Social.9aa3da57a07a3cddf5e3.jpg",
     "static/media/myCV_3.pdf": "/YOU_SANNIM/static/media/myCV_3.eb635788afb1b8239a84.pdf",
+    "static/media/KOURSELY.jpg": "/YOU_SANNIM/static/media/KOURSELY.d0733e623d0d0da2d690.jpg",
     "static/media/default_ai.png": "/YOU_SANNIM/static/media/default_ai.979cef1eb1b9311330d1.png",
     "index.html": "/YOU_SANNIM/index.html",
-    "main.84b10538.css.map": "/YOU_SANNIM/static/css/main.84b10538.css.map",
-    "main.fb2de123.js.map": "/YOU_SANNIM/static/js/main.fb2de123.js.map",
+    "main.365093a4.css.map": "/YOU_SANNIM/static/css/main.365093a4.css.map",
+    "main.c142c15e.js.map": "/YOU_SANNIM/static/js/main.c142c15e.js.map",
     "592.8a4091b0.chunk.js.map": "/YOU_SANNIM/static/js/592.8a4091b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b10538.css",
-    "static/js/main.fb2de123.js"
+    "static/css/main.365093a4.css",
+    "static/js/main.c142c15e.js"
   ]
 }
