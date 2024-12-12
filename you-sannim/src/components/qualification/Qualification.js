@@ -25,7 +25,7 @@ const Qulification = () => {
                         <i className="uil uil-briefcase-alt qualification__icon"> Experience </i>
                     </div>
                 </div>
-            
+
                 {/* Education */}
                 <div className="qualification__sections">
                     <div className={toggle === 1 ? "qualification__content qualification__content-active" : "qualification__content"} >
@@ -81,7 +81,7 @@ const Qulification = () => {
                         </div>
 
 
-                        
+
                         <div className="qualification__data">
                             <div>
                                 {/*  */}
@@ -104,7 +104,7 @@ const Qulification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Full-Stack Developer</h3>
-                                <span className="qualification__subtitle">Freelancer</span>
+                                <span className="qualification__subtitle">Freelance</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">start 2021</i>
                                 </div>
@@ -134,13 +134,13 @@ const Qulification = () => {
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">AI Researcher ( ASR Project )</h3>
                                 <span className="qualification__subtitle">King Mongkut’s University of Technology Thonburi</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt">2023 - Present</i>
+                                    <i className="uil uil-calendar-alt">2023 - 20.5.2024</i>
                                 </div>
                             </div>
                             <div>
@@ -149,6 +149,23 @@ const Qulification = () => {
                             </div>
                             <div>
                                 {/*  */}
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
+                            <div>
+                                {/*  */}
+                            </div>
+                            <div>
+                                <span className="qualification__round"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">Full-Stack Developer (&AI Eng.)</h3>
+                                <span className="qualification__subtitle">CREaiVE.ai</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt">2024 - Present</i>
+                                </div>
                             </div>
                         </div>
 
@@ -168,10 +185,14 @@ const Qulification = () => {
                                 </div>
                             </div> */}
                         </div>
+
+
+
+
                     </div>
                 </div>
 
-            {/* container */}
+                {/* container */}
             </div>
 
         </section>
